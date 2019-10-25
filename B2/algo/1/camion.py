@@ -1,8 +1,6 @@
 from dikssionnaire import villes,test
 import math
 import os 
-
-
 def start():
     start = input(" la ville de départ : ")
     finish = input("la ville d'arrivée : ")
@@ -45,8 +43,5 @@ start,finish = start()
 test()
 print("Ville de départ : ", start)
 print("Ville d'arrivée : ", finish)
-print("Ville de départ : ",start)
-print("Ville d'arrivée : ",finish)
 trajet(start,finish)
-
 input("c'est fini tu peux partir ou sinon tu peux relancer le programme et souscrire à un abonnement AwayFromNetwork")
