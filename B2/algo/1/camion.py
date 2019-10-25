@@ -9,13 +9,6 @@ def start():
     return start, finish
 
 
-def rate():
-    print("Euh Négatif ça marche pas ce que tu veux faire ")
-    start,finish = start()
-    trajet(start,finish)
-    return 0
-
-
 def trajet(start, finish):
         if(start in villes):
             if(finish in villes):
