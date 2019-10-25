@@ -1,6 +1,5 @@
 from dikssionnaire import villes,test
 import math
-import os 
 
 
 def start():
