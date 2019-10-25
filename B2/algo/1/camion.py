@@ -49,4 +49,13 @@ print("Ville de départ : ",start)
 print("Ville d'arrivée : ",finish)
 trajet(start,finish)
 
+print("https://awayfrom.network")
+print("https://awayfrom.network")
+print("https://awayfrom.network")
+print("https://awayfrom.network")
+print("https://awayfrom.network")
+print("https://awayfrom.network")
+print("https://awayfrom.network")
+
+
 input("c'est fini tu peux partir ou sinon tu peux relancer le programme et souscrire à un abonnement AwayFromNetwork")
