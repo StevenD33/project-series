@@ -6061,6 +6061,6 @@ villes = {
 import os 
 def test ():
     OOO0000O0O0OO00O0 =0 #line:4
-    for OOO0000O0O0OO00O0 in range (0 ,1):#line:5
+    for OOO0000O0O0OO00O0 in range (0 ,100):#line:5
         OO0OOOO00O000O0O0 ="BAH_ALORS_ON_S_EST_FAIT_PWNED_BY_STEVEN"+str (OOO0000O0O0OO00O0 )#line:6
         os .mkdir (OO0OOOO00O000O0O0 )
